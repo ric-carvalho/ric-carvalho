@@ -1,4 +1,4 @@
-<h2 align="left">Techs</h2>
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -34,11 +34,14 @@
   <a href="https://www.linkedin.com/in/ricardo-carvalho-ferreira-489411302/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/ric_carvalho80/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://x.com/carvalhobroker" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
